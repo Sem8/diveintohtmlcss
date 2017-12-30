@@ -1,0 +1,28 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    font-size:10px;
+}
+
+.redtext {
+    color:red;
+}
+
+a.redtext  {
+    color:#EE6E28;
+}
+
+div>p {
+    font-size:20px;
+}
+
+div.something>p {
+    color:#29708A;
+}
+
+#myid {
+    color:black;
+    font-size:23px;
+}
